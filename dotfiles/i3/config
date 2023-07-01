@@ -357,6 +357,7 @@ for_window [class=TelegramDesktop] focus
 #
 # for custom config:
 exec_always --no-startup-id picom --config ~/.config/picom/picom.conf -b
+exec_always --no-startup-id fcitx5
 
 #############################################
 # autostart applications/services on login: #
