@@ -13,6 +13,7 @@ set encoding=utf-8
 " statusbar
 set laststatus=2
 
+set number
 set relativenumber
 
 "backup settings
@@ -98,7 +99,8 @@ call plug#end()
 
 set termguicolors
 set t_Co=256
-colorscheme pink-moon
+"colorscheme pink-moon
+colorscheme habamax
 
 " remove trailing whitespace
 set wrap
