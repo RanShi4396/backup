@@ -1,2 +1,2 @@
 # backup
-backup files for linux config files
+backup for linux config files
