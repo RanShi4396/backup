@@ -1,2 +1,3 @@
 # backup
-backup for linux config files
+backup for linux config files under
+~/.config/
